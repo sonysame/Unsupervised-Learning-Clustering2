@@ -28,5 +28,5 @@ mu: 각 클러스터에 대해 부담률의 가중치를 더한 데이터 평균
 K-means 기법의 경우 클러스터링의 장점을 평가하기 위해 왜곡척도(Distortion Measure)를 사용했지만, 가우시한 혼합 모델의 경우는 **가능도**를 사용<br/>
 음의 로그 가능도는 점차 감소해 수렴
 
-### *EM-algorithm-likelihood.py*
+### *EM-likelihood.py*
 ![image](https://user-images.githubusercontent.com/24853452/103483250-426d0a00-4e29-11eb-84f2-3282197a50d6.png)
